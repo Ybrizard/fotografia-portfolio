@@ -22,4 +22,4 @@ Teste de site apenas com html e css.
 
  🖥️Visualização
  Acesse o projeto publicado:
- ➡️
+ ➡️https://ybrizard.github.io/fotografia-portfolio/
